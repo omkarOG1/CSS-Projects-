@@ -99,7 +99,7 @@ body {
   background-color: #4070f4;
   margin: 0 10px;
   cursor: pointer;
-  transition: 3 all eas;
+  transition: 3 all ease;
 }
 .button:hover {
   background-color: #3761d5;
